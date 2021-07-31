@@ -26,5 +26,18 @@
   [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 </p>
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=anujdarji2001&hide=stars&show_icons=true&line_height=48">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdarji2001&count_private=true">
+
+</p>
+
+
+
 [gmail]: mailto:anujdarji2001@gmail.com
 [linkedin]: https://www.linkedin.com/in/anuj-darji-6727b01b0/
