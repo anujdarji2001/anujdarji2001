@@ -56,7 +56,7 @@
 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=anujdarji2001&hide=stars&show_icons=true&line_height=48"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdarji2001&count_private=true"> -->
-  ![Anuj Darji's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujdarji2001&count_private=true&show_icons=true&locale=en)
+  ![Anuj Darji's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujdarji2001&show_icons=true&theme=dark)
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujdarji2001&show_icons=true&locale=en&layout=compact" alt="anujdarji2001" />
 
 </p>
