@@ -8,6 +8,7 @@
 ### About me: 😊
 
 - 🌱 I’m currently Studying at LDCE(Computer) 2019-2023.
+- 🥅 2021 Goals: More coding less talking
 - 🔭 I’m currently Learning Django and React JS.
 - 💬 Ask me about MERN Stack and Django...
 
@@ -22,8 +23,8 @@
   <b><i>📫 How to reach me: </i></b>
 
  
-  [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
-  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+  [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank">][gmail] 
+  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>][LinkedIn]
 </p>
 
 ---
@@ -33,7 +34,8 @@
 <p align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=anujdarji2001&hide=stars&show_icons=true&line_height=48">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdarji2001&count_private=true">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdarji2001&count_private=true"> -->
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujdarji2001&show_icons=true&locale=en&layout=compact" alt="anujdarji2001" /></p>
 
 </p>
 
