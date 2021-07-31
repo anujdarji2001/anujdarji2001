@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Anuj Darji</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj Darji</h1>
 
 
 <!--
@@ -13,6 +13,7 @@
 - 🥅 2021 Goals: More coding less talking
 - 🔭 I’m currently Learning Django and React JS.
 - 💬 Ask me about MERN Stack and Django...
+- 📄 Know about me better [https://drive.google.com/file/d/1voyVh9OswomHCrKKxPCra_IVJESr_1Ix/view?usp=sharing](https://drive.google.com/file/d/1voyVh9OswomHCrKKxPCra_IVJESr_1Ix/view?usp=sharing)
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
