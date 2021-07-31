@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 </p>
 
 [gmail]: mailto:anujdarji2001@gmail.com
-[linkedin]: https://www.linkedin.com/in/anuj-darji/
+[linkedin]: https://www.linkedin.com/in/anuj-darji-6727b01b0/
