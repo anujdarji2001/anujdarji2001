@@ -5,6 +5,7 @@
 -->
 
 <!-- Here are some ideas to get you started: -->
+### About me: 😊
 
 - 🌱 I’m currently Studying at LDCE(Computer) 2019-2023.
 - 🔭 I’m currently Learning Django and React JS.
@@ -14,6 +15,8 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+---
 
 <p>
   <b><i>📫 How to reach me: </i></b>
