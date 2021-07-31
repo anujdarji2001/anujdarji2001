@@ -45,7 +45,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="Mongodb"  width="40" height="40"/></a>
-  <a href="" target="_blank"><img src="https://in.images.search.yahoo.com/search/images;_ylt=AwrPhO9VEwVhA0MA_mi7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=js+logo&fr2=piv-web&type=E211IN714G0&fr=mcafee#id=188&iurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F240px-Unofficial_JavaScript_logo_2.svg.png&action=click" alt="JS"  width="40" height="40"/></a>
+  <a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" alt="JS"  width="40" height="40"/></a>
 </p>
 
 ---
