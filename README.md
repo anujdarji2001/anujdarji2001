@@ -23,8 +23,8 @@
   <b><i>📫 How to reach me: </i></b>
 
  
-  [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank">][gmail] 
-  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>][LinkedIn]
+  [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white">][LinkedIn]
 </p>
 
 ---
@@ -33,9 +33,10 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=anujdarji2001&hide=stars&show_icons=true&line_height=48">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=anujdarji2001&hide=stars&show_icons=true&line_height=48"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdarji2001&count_private=true"> -->
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujdarji2001&show_icons=true&locale=en&layout=compact" alt="anujdarji2001" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav720&show_icons=true&locale=en" alt="vaibhav720" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujdarji2001&show_icons=true&locale=en&layout=compact" alt="anujdarji2001" />
 
 </p>
 
