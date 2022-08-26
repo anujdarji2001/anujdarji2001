@@ -12,7 +12,7 @@
 - 🌱 I’m currently Studying at LDCE(Computer) 2019-2023.
 - 🥅 2021 Goals: More coding less talking
 - 🔭 I’m currently Learning Django and React JS.
-- 💬 Ask me about MERN Stack and Django...
+- 💬 Ask me about MERN Stack and Django.
 - 📄 Know about me better [https://drive.google.com/file/d/1yxZB-WIam4tDsUsJ-cvZw_UIgX5i8Tq6/view?usp=sharing](https://drive.google.com/file/d/1yxZB-WIam4tDsUsJ-cvZw_UIgX5i8Tq6/view?usp=sharing)
 
 <!-- - 👯 I’m looking to collaborate on ... -->
