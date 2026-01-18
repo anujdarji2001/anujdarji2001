@@ -1,69 +1,68 @@
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+  I'm Anuj Darji
+</h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj Darji</h1>
-
-
-<!--
-**anujdarji2001/anujdarji2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<!-- Here are some ideas to get you started: -->
-### About me: 😊
-
-- 🌱 I’m currently Studying at LDCE(Computer) 2019-2023.
-- 🥅 2021 Goals: More coding less talking
-- 🔭 I’m currently Learning Django and React JS.
-- 💬 Ask me about MERN Stack and Django.
-- 📄 Know about me better [https://drive.google.com/file/d/1yxZB-WIam4tDsUsJ-cvZw_UIgX5i8Tq6/view?usp=sharing](https://drive.google.com/file/d/1yxZB-WIam4tDsUsJ-cvZw_UIgX5i8Tq6/view?usp=sharing)
-
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-
-<!-- - ⚡ Fun fact: ... -->
-
----
-
-<p>
-  <b><i>📫 How to reach me: </i></b>
-
- 
-  [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
-  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white">][LinkedIn]
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" alt="JS"  width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://www.pinclipart.com/picdir/middle/520-5201509_node-js-logo-png-clipart.png" alt="Node JS"  width="60" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://i.pinimg.com/originals/84/b1/06/84b1065e798f61aa80b8670a4b6fbb4d.png" alt="React JS"  width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://laymanclass.com/wp-content/uploads/2019/08/mongodb2.jpeg" alt="Mongodb"  width="65" height="40"/></a>
-</p>
-
----
-
-## &#x1f4c8; My GitHub Stats
+<h3 align="center">Full Stack Developer | AI-powered solutions</h3>
 
 <p align="center">
-
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=anujdarji2001&hide=stars&show_icons=true&line_height=48"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdarji2001&count_private=true"> -->
-  
-  ![Anuj Darji's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujdarji2001&show_icons=true&theme=flag-india)
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anujdarji2001&show_icons=true&locale=en&layout=compact" alt="anujdarji2001" />
-
+  <a href="https://linkedin.com/in/anuj-darji-6727b01b0">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/anujdarji2001">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:anujdarji2001@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+## 🚀 About Me
 
+I'm a passionate **Full-Stack Developer** from Ahmedabad, Gujarat, with a strong drive for mastering new technologies and building advanced solutions. I specialize in creating AI-powered applications and scalable platforms that solve complex problems and deliver impactful results.
 
-[gmail]: mailto:anujdarji2001@gmail.com
-[linkedin]: https://www.linkedin.com/in/anuj-darji-6727b01b0/
+- 🔭 Currently working as a **Software Developer** at Sameeksha Capital
+- 🎓 B.E. in Computer Engineering from L.D. College of Engineering (CGPA: 9/10)
+- 🌱 Building scalable platforms with Django, FastAPI, and ReactJS
+- 💡 Experienced in developing RAG-based AI chatbots and automated trading systems
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,java,html,css,sql" />
+</p>
+
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react,nodejs,docker,redis,mongodb,postgres,mysql,linux,git" />
+</p>
+
+### ☁️ Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+</p>
+
+## 💼 Professional Experience
+
+### Software Developer @ Sameeksha Capital
+*June 2023 - Present*
+
+- Built scalable platforms using Django and FastAPI for financial market research
+- Developed RAG-based AI chatbot combining LLMs with vector-based retrieval
+- Contributed to automated trading systems with real-time allocation tracking
+- Deployed applications on GCP and AWS ensuring high availability
+
+### Associate Software Engineer Intern @ Conga Software
+*January 2023 - June 2023*
+
+- Designed automation scripts for test cases using JUnit and JMeter
+- Enhanced product reliability through optimized testing workflows
+
+## 📈 What I'm Up To
+
+- 🔨 Building AI-powered applications and scalable backend systems
+- 📚 Exploring advanced LLM applications and vector databases
+- 🎯 Contributing to open-source projects
+- 💻 Continuously learning and staying updated with the latest tech trends
+
